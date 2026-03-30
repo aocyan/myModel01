@@ -9,8 +9,8 @@
 	<?php include(__DIR__ . "/inc/header.php"); ?>
 
 	<div class="contactContainer">
-		<p>お問い合わせのフォームの練習です。</p>
-		<a href="contactform.php">お問い合わせはこちらから</a>
+		<p>お問い合わせ内容を受け付けました。</p>
+		<a href="/">トップページに戻る</a>
 	</div>
 
 	<?php include(__DIR__ . "/inc/footer.php"); ?>
