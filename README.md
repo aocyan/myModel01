@@ -18,4 +18,5 @@
 <ul>
   <li>トップページ: <a href="http://localhost:8000/">http://localhost:8000/</a></li>
   <li>管理画面: <a href="http://localhost:8000/admin/login.php">http://localhost:8000/admin/login.php</a></li>
+  <li>phpMyAdmin: <a href="http://localhost:8080/">http://localhost:8000/</a></li>
 </ul>
