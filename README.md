@@ -14,6 +14,7 @@
   <li>MySQL:ver.8.0.26</li>
 </ul>
 <h2>〇 ER図</h2>
+<img width="401" height="401" alt="er" src="https://github.com/user-attachments/assets/256a60b0-4abb-474a-909a-1b0658d8da3b" />
 <h2>〇 URL</h2>
 <ul>
   <li>トップページ: <a href="http://localhost:8000">http://localhost:8000</a></li>
