@@ -7,7 +7,6 @@
   </li>
   <li>DockerDesktopを立ち上げる</li>
   <li>docker-compose up -d --build を実行(myModel01ディレクトリ内で実行)</li>
-  <li></li>
 </ol>
 <h2>〇 仕様技術</h2>
 <ul>
