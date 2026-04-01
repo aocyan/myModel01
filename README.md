@@ -3,7 +3,7 @@
 <p>※OSはWindows11を使用しております。OSがMacを使用の際は適宜環境構築お願いいたします。</p>
 <ol>
   <li>クローンする<br>
-      https://github.com/aocyan/myModel01.git を実行
+      git clone https://github.com/aocyan/myModel01.git を実行
   </li>
   <li>DockerDesktopを立ち上げる</li>
   <li>docker-compose up -d --build を実行(myModel01ディレクトリ内で実行)</li>
