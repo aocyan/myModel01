@@ -16,6 +16,7 @@
 <body>
 	<?php include(__DIR__ . "/inc/header.php"); ?>
 
+	<h2>ログインページ</h2>
 	<form action="login_check.php" method="post">
 		<table>
 			<tr>

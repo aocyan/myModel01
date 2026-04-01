@@ -27,8 +27,8 @@ services:
     ports:
       - "3306:3306"
     volumes:
-      - ./docker/mysql/data:/var/lib/mysql
       - ./docker/mysql/my.cnf:/etc/mysql/conf.d/my.cnf
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
