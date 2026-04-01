@@ -8,6 +8,7 @@
   <li>DockerDesktopを立ち上げる</li>
   <li>docker-compose up -d --build を実行(myModel01ディレクトリ内で実行)</li>
 </ol>
+<p>管理者ログインは、ユーザー名、パスワード共に myModel01User です。</p>
 <h2>〇 仕様技術</h2>
 <ul>
   <li>PHP:ver.8.4</li>
